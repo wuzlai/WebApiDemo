@@ -27,6 +27,7 @@ namespace Web.Controllers.Api
         [HttpGet]
         public IActionResult TestModel([FromQuery] RequestDTO dto)
         {
+
             return Content("TestModel:" + dto.id+","+dto.name);
         }
 

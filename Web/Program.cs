@@ -22,7 +22,10 @@ namespace Web
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    //c1分支的修改1
                     webBuilder.UseStartup<Startup>();
+                    //c1分支的修改2
+                    string test = "modify2";
                 });
     }
 }

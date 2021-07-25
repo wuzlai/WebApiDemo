@@ -16,6 +16,7 @@ namespace Web
     {
         public Startup(IConfiguration configuration)
         {
+            //developÐÞ¸Ä
             Configuration = configuration;
         }
 

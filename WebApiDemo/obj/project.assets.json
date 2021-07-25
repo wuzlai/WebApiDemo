@@ -204,11 +204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VS_project\\WebApiDemo\\WebApiDemo\\WebApiDemo.csproj",
+      "projectUniqueName": "F:\\Git\\WebApiDemo\\WebApiDemo\\WebApiDemo.csproj",
       "projectName": "WebApiDemo",
-      "projectPath": "E:\\VS_project\\WebApiDemo\\WebApiDemo\\WebApiDemo.csproj",
+      "projectPath": "F:\\Git\\WebApiDemo\\WebApiDemo\\WebApiDemo.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\VS_project\\WebApiDemo\\WebApiDemo\\obj\\",
+      "outputPath": "F:\\Git\\WebApiDemo\\WebApiDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
